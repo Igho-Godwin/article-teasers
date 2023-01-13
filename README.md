@@ -1,6 +1,6 @@
 # Teaser App
 
-A React application to show teaser. To run npm start
+A React application to show teaser. To run npm i, npm start
 
 ## Tools
 
